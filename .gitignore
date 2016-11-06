@@ -1,0 +1,7 @@
+pip-selfcheck.json
+.DS_Store
+.Python
+.idea/
+bin/
+include/
+lib/
