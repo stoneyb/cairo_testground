@@ -34,7 +34,4 @@ ctx.set_source_rgb (0.3, 0.2, 0.5) # Solid color
 ctx.set_line_width (0.005)
 ctx.stroke()
 
-
-
-
-surface.write_to_png ("example.png") # Output to PNG
+surface.write_to_png ("img/example.png") # Output to PNG
